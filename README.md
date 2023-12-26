@@ -10,9 +10,7 @@ The datasets used in this project are:
 
 2. `data_preprocessed.csv`: This is the preprocessed version of `data_all.csv`. It is generated after the punctuation cleaning step and is used in the second step of the pipeline.
 
-## Scripts
-
-The scripts included in this project are:
+## Codes
 
 1. `data preprocess_text-punctuation cleaning.scala`: This script takes `data_all.csv` as input and performs Data Preprocessing and Text-Punctuation Cleaning on the text data. The output of this script is `data_preprocessed.csv`.
 
